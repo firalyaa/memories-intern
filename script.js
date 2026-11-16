@@ -7,7 +7,7 @@ tida nyangka sudah di akhir magang niccc. thank you ya kaa, sudah jadi teman yan
 
 aku bakal kangen obrolan-obrolan kita, terutama pas lagi ngopi dan cerita yang bener-bener asbun itu yang bikin hari-hari magang terasa lebih ringan.
 
-kakakk kalo kaa nanaa ada cerita ke aku aja yaa jangan sungkan dan jangan di pendem sendiri yaaa, kalo semisalnya kakakk ada waktu luang atau lagi gabutt nii bisa chat aku buat sekedar jajan or ngops-ngops santuyy xixixi
+kakakk, kalo kaa nanaa ada cerita ke aku aja yaa jangan sungkan dan jangan di pendem sendiri yaaa, kalo semisalnya kakakk ada waktu luang atau lagi gabutt nii bisa chat aku buat sekedar jajan or ngops-ngops santuyy xixixi
 
 semoga kakak selalu sehat dan sukses. Let’s keep in touch, dan kapan-kapan kita ngopi lagi.🤍
 
