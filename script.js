@@ -15,7 +15,7 @@ berikopi again lagi tidacc kaa wkwkwk, lancar-lancar yaaa kakk sama tuga terakhi
 `;
 
 const warnaNote = "#F9DCE4";
-const kodeRahasia = "NANABLUU";
+const kodeRahasia = "nanabluu";
 
 // MEMBUAT STICKY NOTE
 const notesContainer = document.getElementById("notesContainer");
@@ -56,7 +56,7 @@ function backToMenu() {
 function checkCode() {
     const input = document.getElementById("secretCode").value.trim();
 
-    if (input.toUpperCase() === kodeRahasia) {
+    if (input.toUpperCase() === kodeRahasia.toUpperCase()) {
         document.getElementById("mainContent").style.display = "block";
         document.getElementById("lockScreen").style.display = "none";
     } else {
