@@ -3,17 +3,19 @@ const nama = "nanabluu";
 const pesan = `
 hawoo nanabluu! ♡
 
-tida nyangka sudah di akhir magang niccc. thank you ya kaa, sudah jadi teman yang selalu ada, dari kerja, kegiatan di luar, ngopi, sampai pulang bareng asikkk.
+tidaaa nyangka sudah di akhir magang niccc. thank you ya kaa, sudah jadi teman yang selalu ada, dari kerja, kegiatan di luar, ngopi, sampai pulang bareng asikkk.
 
 aku bakal kangen obrolan-obrolan kita, terutama pas lagi ngopi dan cerita yang bener-bener asbun itu yang bikin hari-hari magang terasa lebih ringan.
 
 semoga kakak selalu sehat dan sukses. Let’s keep in touch, dan kapan-kapan kita ngopi lagi.🤍
 
-ngopi di berikopi again lagi tidacc wkwkwk, lancar-lancar yaaa kakk sama tuga terakhirnyaa, keep spirit kaa nanaaa!!!
+kalo kakak mau cerita' apapun itu ke aku aja gapapa jangan di pendem terus yaa kaa, klo lgi free atau lagi gabut dan bingung mau ngapain just contanct me okayyy xixi 
+
+berikopi again lagi tidacc kaa wkwkwk, lancar-lancar yaaa kakk sama tuga terakhirnyaa, keep spirit kaa nanaaa!!!
 `;
 
 const warnaNote = "#F9DCE4";
-const kodeRahasia = "nanabluu";
+const kodeRahasia = "NANABLUU";
 
 // MEMBUAT STICKY NOTE
 const notesContainer = document.getElementById("notesContainer");
@@ -34,7 +36,7 @@ notesContainer.appendChild(note);
 
 // MEMBUKA PESAN
 function openMessage() {
-    document.getElementById("modalCharacter").innerHTML = "🐨💗";
+    document.getElementById("modalCharacter").innerHTML = "🧸💗";
     document.getElementById("modalName").innerText = `Dear ${nama} ♡`;
     document.getElementById("modalMessage").innerText = pesan;
     document.getElementById("modal").style.display = "flex";
