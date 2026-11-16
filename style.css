@@ -12,7 +12,7 @@
 body {
     font-family: 'Comic Sans MS', cursive;
     background: #fff0f5;
-    color: #79546a;
+    color: #79cadf;
     min-height: 100vh;
 }
 
@@ -25,13 +25,13 @@ body {
 }
 
 h1 {
-    color: #e775de;
+    color: #7ad8e9;
     font-size: 36px;
     margin-bottom: 12px;
 }
 
 .subtitle {
-    color: #b172b9;
+    color: #72b7b9;
     margin-bottom: 35px;
     font-size: 16px;
 }
@@ -48,11 +48,11 @@ h1 {
 }
 
 .note {
-    background: #df93cd;
+    background: #8addd6;
     min-height: 190px;
     padding: 25px 15px;
     border-radius: 15px;
-    box-shadow: 0 5px 12px #e5a2e2;
+    box-shadow: 0 5px 12px #a2d0e5;
     cursor: pointer;
     transition: 0.3s;
     border: 2px solid white;
@@ -68,14 +68,14 @@ h1 {
 }
 
 .note h3 {
-    color: #d89fd5;
+    color: #9fd8d5;
     font-size: 20px;
     margin-bottom: 10px;
 }
 
 .note p {
     font-size: 13px;
-    color: #a5799e;
+    color: #82c8d1;
 }
 
 /* =========================
@@ -104,14 +104,14 @@ h1 {
     overflow-y: auto;
     padding: 35px;
     border-radius: 25px;
-    box-shadow: 0 8px 25px #9c7188;
+    box-shadow: 0 8px 25px #62b1d6;
     animation: muncul 0.4s ease;
     position: relative;
     margin: auto;
 }
 
 .modal-content h2 {
-    color: #e08cce;
+    color: #8cb7e0;
     margin-bottom: 20px;
 }
 
@@ -127,7 +127,7 @@ h1 {
     top: 12px;
     font-size: 27px;
     cursor: pointer;
-    color: #d66ed1;
+    color: #6e9bd6;
 }
 
 /* =========================
@@ -138,7 +138,7 @@ h1 {
     display: block;
     margin: 25px auto 0;
     padding: 12px 25px;
-    background: #ed9de9;
+    background: #9dc9ed;
     color: white;
     border: none;
     border-radius: 25px;
@@ -150,7 +150,7 @@ h1 {
 }
 
 .back-button:hover {
-    background: #d978c9;
+    background: #78add9;
     transform: translateY(-3px);
 }
 
@@ -171,7 +171,7 @@ h1 {
 }
 
 .memory-section h2 {
-    color: #cf80d6;
+    color: #809bd6;
     margin-bottom: 25px;
 }
 
@@ -196,7 +196,7 @@ h1 {
     object-fit: cover;
     border: 4px solid white;
     border-radius: 15px;
-    box-shadow: 0 4px 10px #e8b6dd;
+    box-shadow: 0 4px 10px #b6cae8;
 }
 
 /* Wadah dua foto landscape */
@@ -240,7 +240,7 @@ h1 {
 
 .media-caption {
     margin-top: 15px;
-    color: #b477ac;
+    color: #77abb4;
     font-style: italic;
     font-size: 13px;
 }
@@ -277,7 +277,7 @@ h1 {
 }
 
 .lock-decoration {
-    color: #e88ed2;
+    color: #8ebde8;
     font-size: 25px;
     margin-bottom: 15px;
 }
@@ -294,7 +294,7 @@ h1 {
 }
 
 .lock-card p {
-    color: #a77ba0;
+    color: #43a3e4;
     font-size: 14px;
     line-height: 1.8;
     margin-bottom: 20px;
@@ -314,7 +314,7 @@ h1 {
 }
 
 .lock-card input:focus {
-    border-color: #e479e8;
+    border-color: #79ade8;
 }
 
 .lock-card button {
@@ -322,7 +322,7 @@ h1 {
     padding: 14px;
     border: none;
     border-radius: 20px;
-    background: #e295e9;
+    background: #95c3e9;
     color: white;
     font-family: inherit;
     font-weight: 800;
@@ -331,19 +331,19 @@ h1 {
 }
 
 .lock-card button:hover {
-    background: #d978d1;
+    background: #78aad9;
     transform: translateY(-3px);
 }
 
 .lock-card .error-message {
-    color: #d45dc4;
+    color: #5d9ed4;
     font-size: 13px;
     margin-top: 15px;
     margin-bottom: 0;
 }
 
 .lock-footer {
-    color: #bb8bbd;
+    color: #8babbd;
     font-size: 12px;
     margin-top: 25px;
     letter-spacing: 1px;
@@ -355,7 +355,7 @@ h1 {
 
 footer {
     margin-top: 45px;
-    color: #b58bb3;
+    color: #86bdce;
     font-size: 13px;
 }
 
@@ -474,7 +474,7 @@ footer {
     padding: 12px 24px;
     border: none;
     border-radius: 25px;
-    background: #ed9de9;
+    background: #9dc9ed;
     color: white;
     font-family: inherit;
     font-weight: bold;
@@ -482,7 +482,7 @@ footer {
 }
 
 .sound-button:hover {
-    background: #d978a0;
+    background: #78aad9;
 }
 
 /* TOMBOL MUSIK */
@@ -494,16 +494,16 @@ footer {
     padding: 12px 20px;
     border: 2px solid white;
     border-radius: 25px;
-    background: #ed9de9;
+    background: #9dbded;
     color: white;
     font-family: inherit;
     font-weight: bold;
     cursor: pointer;
-    box-shadow: 0 4px 10px #e8b6ca;
+    box-shadow: 0 4px 10px #b6c7e8;
 }
 
 .music-button:hover {
-    background: #d978c9;
+    background: #78b2d9;
 }
 
 .notes-container {
